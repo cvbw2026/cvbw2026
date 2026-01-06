@@ -118,7 +118,7 @@ header:
 
   .gallery-container figure {
     display: inline-block;  /* Makes sure figures are aligned as inline elements */ß
-    text-align: center;    /* Center-aligns the caption */
+    text-align: center;    /* Center-aligns the title */
     margin: 5px;          /* Provides some space around each image */
     vertical-align: top;   /* Aligns items to the top, useful for multi-row galleries */
   }
@@ -142,8 +142,8 @@ header:
   }
 }
 
-  .gallery-container figcaption {
-    font-size: 1.35em; /* Increases the font size of captions */
+  .gallery-container figtitle {
+    font-size: 1.35em; /* Increases the font size of titles */
   }
 </style>
 
@@ -200,7 +200,7 @@ TBC
 
 <div id='organising'></div>
 ## Organising Team
-{% include gallery id="organizers" class="full" layout="fifth" %}
+{% include gallery id="organizers" class="full" layout="half" %}
 
 
 <div id='contact'></div>
