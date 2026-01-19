@@ -154,7 +154,7 @@ Human movement analysis is entering a new era driven by advances in computer vis
 <div id='important'></div>
 ## Important Dates
 
-- January 15 - [Submission Opens](#call_for_papers)
+- January 23 - [Submission Opens](#call_for_papers)
 - March 15 - Submission Deadline
 - April 7 - Notification
 - April 11 - Camera Ready
