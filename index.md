@@ -161,7 +161,7 @@ Human movement analysis is entering a new era driven by advances in computer vis
 - [Submission Open for Full Paper Track](https://openreview.net/group?id=thecvf.com%2FCVPR%2F2026%2FWorkshop%2FCVBW_Proceedings_Track#tab-recent-activity)
 - **March 2** - Submission Deadline
 - March 18 - Reviews Due
-- March 20  - Notification
+- March 30  - Notification
 - April 8 - Camera Ready
 
 ### Short Paper Track
