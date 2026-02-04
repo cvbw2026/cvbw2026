@@ -150,31 +150,23 @@ header:
 Human movement analysis is entering a new era driven by advances in computer vision and machine learning. Accurate estimation of body pose, shape, motion, forces, and joint dynamics is crucial for translating visual data into meaningful biomechanical insights. Yet, challenges such as data variability, limited annotations, and domain generalization persist. This workshop explores emerging intersection of computer vision and biomechanics, bringing together researchers and practitioners to discuss new methods, datasets, and applications that bridge perception and physical understanding enabling precise, data-driven insights and extending the impact of vision-based biomechanics across diverse domains such as rehabilitation, sports performance, and injury prevention.
 
 
-<div id='update'></div>
-## Updates
-- Full Paper Track added
 
 <div id='important'></div>
 ## Important Dates
 
-### Full Paper Track
-- [Submission Open for Full Paper Track](https://openreview.net/group?id=thecvf.com%2FCVPR%2F2026%2FWorkshop%2FCVBW_Proceedings_Track#tab-recent-activity)
-- **March 2** - Submission Deadline
-- March 18 - Reviews Due
-- March 30  - Notification
-- April 8 - Camera Ready
-
-### Short Paper Track
-- [Submission Open for Short Paper Track](https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/CVBW#tab-recent-activity)
+- January 23 - [Submission Opens](https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/CVBW#tab-recent-activity)
 - March 15 - Submission Deadline
 - April 7 - Notification
 - April 11 - Camera Ready
+- June 3-4 - Workshop
 
 
 <div id='call_for_papers'></div>
 ## Call for Papers
 
-This workshop will be accepting both full papers (8 pages excluding references and supplementary material) and short papers (4 pages excluding references and appendix). Topics of interest for this workshop include, but are not limited to,
+Submission Link can be found [here](https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/CVBW#tab-recent-activity).
+
+This workshop will be accepting short papers (4 pages excluding references and appendix). Topics of interest for this workshop include, but are not limited to,
 
 - Computer vision for injury prevention and rehabilitation monitoring
 - Computer vision for movement disorder assessment
@@ -188,21 +180,14 @@ This workshop will be accepting both full papers (8 pages excluding references a
 - Privacy preserving approaches to enable computer vision for biomechanical analysis
 - Deploying vision-based biomechanics in low-resource settings and on consumer grade devices
 
-### Full Paper instructions
-Full papers will be included as part of the CVPR workshop proceedings. Review for this track will be double-blind review. Authors should follow the [CVPR Author insturctions](https://cvpr.thecvf.com/Conferences/2026/AuthorGuidelines). Submissions to this track are due **March 2, 2026, 23:59 AoE**. Please note the earlier submission time than the short-paper track. Authors should use the same LaTeX style for papers to the main conference. Papers to this track must be within 8-pages excluding references and Supplementary Material. Note that reviewers are not required to review material in the supplementary material. Submissions that exceed the page limits or with significant violations will be desk rejected. Accepted papers will be selected for either short oral/poster presentation.
 
-Following CVPR review guidelines, authors of papers may be recruited as reviewers for the workshop (likely for the the Short paper track that follows track).
+Researchers interested in contributing should upload a short paper of up to 4 pages (not counting references and appendices) by **March 15, 2026, 23:59 AoE**. The link for submission is available [through OpenReview here](https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/CVBW#tab-recent-activity). References and supplementary material can exceed 4 pages.  Please upload a single PDF that includes the main paper and any supplementary material. Submissions that exceed 4 pages or submissions with significant formatting violations will be rejected.
 
-Submission link for the full paper track can be found [here](https://openreview.net/group?id=thecvf.com%2FCVPR%2F2026%2FWorkshop%2FCVBW_Proceedings_Track#tab-recent-activity).
-
-
-### Short Paper Instructions
-The short paper track will be non-archival, and is designed for authors to present work that may be of interest to the broader computer vision and biomechanics community. This includes work that has been accepted at another venue or under review, work that highlights negative results. Submissions for this track are due **March 15, 2026, 23:59 AoE**. Authors should use the same CVPR LaTeX style provided on the main website. Submissions for this track do not need to be annonomized, and will undergo single-blind review.
+Authors should use the same CVPR LaTeX style provided on the main website [here](https://github.com/cvpr-org/author-kit/archive/refs/tags/CVPR2026-v1(latex).zip). (If clicking on the link does not work, please copy the link and paste in your browser tab). Submissions don't need to be anonymized. The workshop allows submissions of papers that are under review or have been recently published in a conference or a journal. Authors should state any overlapping published work at the time of submission. The workshop will not have any official proceedings, so it is non-archival.
 
 All submissions will be reviewed and will be evaluated on the basis of their technical content. Accepted papers will be selected for either a short oral presentation and/or poster presentation.
 
-Submission link for the short paper track can be found [here](https://openreview.net/group?id=thecvf.com/CVPR/2026/Workshop/CVBW#tab-recent-activity).
-
+Following CVPR review guidelines, authors of papers may be recruited as reviewers for this workshop.
 
 If you have any questions or difficulty submitting your paper, contact us at [cvbw2026@gmail.com](cvbw2026@gmail.com).
 
